@@ -1,4 +1,4 @@
-![banner](https://github.com/Brown-Boi-Nash/Brown-Boi-Nash/blob/master/banner_1.gif?raw=true)
+![banner](https://github.com/Brown-Boi-Nash/Brown-Boi-Nash/blob/master/banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Nishan</h1>
 <h3 align="center">A frontend developer and UI designer from India</h3>
