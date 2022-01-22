@@ -1,7 +1,7 @@
 ![banner](https://github.com/Brown-Boi-Nash/Brown-Boi-Nash/blob/master/banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Nishan</h1>
-<h3 align="center">A frontend developer and UI designer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brown-boi-nash" alt="brown-boi-nash" /> </p>
 
